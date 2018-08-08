@@ -7,4 +7,6 @@ There were two main difficulties:
 
 On a theoretical ground, the most important lesson I gained from this, is the importance of data exploration, and in particular data visualization, because it helps processing the data in a way which makes it easier to analyze. In this specific case, taking only slices (selected carefully) of the MRI greatly reduced the dimension (and the noise I guess).
 
+On the implementation side, this was my first project in Python and I learned to use the Scikit Learn library.
+
 The most efficient algorithm was AdaBoost.
