@@ -7,4 +7,4 @@ There were two main difficulties:
 
 On a theoretical ground, the most important lesson I gained from this, is the importance of data exploration, and in particular data visualization, because it helps processing the data in a way which makes it easier to analyze. In this specific case, taking only slices (selected carefully) of the MRI greatly reduced the dimension (and the noise I guess).
 
-The most efficient algorithm was Random Forest.
+The most efficient algorithm was AdaBoost.
